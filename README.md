@@ -1,4 +1,4 @@
-*** 2048 Game in Pygame
+2048 Game in Pygame
 
 A Python implementation of the classic 2048 game using Pygame, featuring smooth animations for tile movements, merges, and new tile appearances.
 
