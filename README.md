@@ -24,7 +24,7 @@ pip install pygame
 
 Clone the Repository
 
-git clone https://github.com/your-username/2048-pygame.git
+git clone https://github.com/1akin1/2048-Game.git
 cd 2048-pygame
 
 How to Play
